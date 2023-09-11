@@ -1,6 +1,6 @@
 # Voice Cloning App
 
-A Python/Pytorch app for easily synthesising human voices
+A Python Flask App to synthesis or recognize human being voices in text format in english language
 
 ![Preview](preview.png "Preview")
 
@@ -28,5 +28,6 @@ A Python/Pytorch app for easily synthesising human voices
 - Improved batch size estimation
 - AMD GPU support
 
-
+## To any query contact on my mail
+durgeshbhardwaj5100@gmail.com
 
